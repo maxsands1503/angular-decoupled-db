@@ -1,10 +1,16 @@
 #Make a DataBase
 
-##(1) ```npm init```
+##(1)
+```
+npm init
+```
 
 	makes your package.json file
 
-##(2)```npm install```
+##(2)
+```
+npm install
+```
 
 	make node_modules
 
@@ -12,7 +18,7 @@
 
 		makes a .gitignore file
 
-#ADD DEPENDENCIES knex, pg dotenv
+# ADD DEPENDENCIES knex, pg dotenv
 
 ##(4)```npm install knex pg dotenv  --save```
 
